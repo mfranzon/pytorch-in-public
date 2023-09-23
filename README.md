@@ -1,11 +1,15 @@
 # Pytorch in Public
 
-Implementation of Machine Learning Algorithm in Python. 
+Implementation of Machine Learning Algorithms in Pytorch. 
 
 > Best way to learn is practice
 
-## Content
+## Contents
 
-### How to create a GAN from scratch
+  - [Vanilla GAN](#vanilla-gan)
+  - 
+### Vanilla GAN 
+
+Implementation of Vanilla GAN from scratch using Pytorch. 
 
 [GAN example](./simple_gan/)
