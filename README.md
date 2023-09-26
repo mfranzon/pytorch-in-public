@@ -7,7 +7,7 @@ Implementation of Machine Learning Algorithms in Pytorch.
 ## Contents
 
   - [Vanilla GAN](#vanilla-gan)
-  - 
+   
 ### Vanilla GAN 
 
 Implementation of Vanilla GAN from scratch using Pytorch. 
