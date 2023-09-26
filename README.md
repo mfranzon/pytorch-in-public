@@ -2,7 +2,7 @@
 
 Implementation of Machine Learning Algorithms in Pytorch. 
 
-> Best way to learn is practice
+> The best way to learn is practice.
 
 ## Contents
 
