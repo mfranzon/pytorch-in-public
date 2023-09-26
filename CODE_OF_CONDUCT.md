@@ -1,4 +1,4 @@
-# Code of Conduct - mojo is awesome
+# Code of Conduct - Pytorch in public
 
 ## Our Pledge
 
