@@ -1,5 +1,7 @@
 # Vanilla GAN
 
+![Vanilla Gan general architecture](vanillaGan.png)
+
 ## What is a GAN ?
 A GAN is a type of generative model that learns to generate data that is similar to some real-world dataset it was trained on. The key idea behind GANs is to have two neural networks, the generator and the discriminator, compete against each other in a two-player minimax game.
 
