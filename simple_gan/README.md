@@ -23,4 +23,5 @@ There are several variants and extensions of the original GAN architecture, each
 
 - StyleGAN and StyleGAN2: These models are known for generating highly realistic images, particularly faces. They introduce techniques like style-based architecture and progressive growing to improve image quality.
 
-## Code and Comments
+
+![Vanilla GAN result for MNIST dataset](output.gif)
